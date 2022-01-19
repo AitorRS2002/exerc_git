@@ -1,1 +1,2 @@
-fichero f2
+fichero f2 $ cd D:\git
+edfe
